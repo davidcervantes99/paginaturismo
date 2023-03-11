@@ -23,7 +23,7 @@
                 <div class="sb-sidenav-menu">
                     <div class="nav">
                         <div class="sb-sidenav-menu-heading"></div>
-                        <a class="nav-link" href="inicio.html">
+                        <a class="nav-link" href="inicio.php">
                             <div class="sb-nav-link-icon"><i class="fa-solid fa-house"></i></div>
                             Inicio
                         </a>                       
@@ -273,7 +273,7 @@
                   </div>
             </figure>
       
-            <figure>
+          <figure>
   
               <!--   this div is doing to hold an image, text and an overlay -->
                 <div class="containersimg">
@@ -313,13 +313,12 @@
 
         </div>
 
-    
     </section>
 
 
     <section class="py-5 border-bottom" style="background-color: #f3f3f3;">
         <div class="container px-4 px-lg-5 my-5">
-            <h1 id="sitios" class="display-4 fw-bolder">Siguenos</h1>
+            <h1 id="sitios" class="display-4 fw-bolder">Síguenos</h1>
             <div class="row gx-4 gx-lg-5 align-items-center">
                 <div class="col-md-6">
                     <iframe style="margin: top -20px;" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FDESECOTUR%2F&amp;tabs=timeline&amp;width=350&amp;height=525&amp;small_header=false&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=true&amp;appId" width="400" height="500" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
@@ -400,7 +399,8 @@
         </section>
     
             <footer class="py-5 bg-dark">
-                <div class="container px-5"><p class="m-0 text-center text-white">© Departamento de SIstemas   <a class="text-decoration-none" href="http://www.cananea.gob.mx/">
+                <div class="container px-5"><p class="m-0 text-center text-white">© Departamento de SIstemas 
+                  <a class="text-decoration-none" href="http://www.cananea.gob.mx/">
                     Ayuntamiento de Cananea Sonora
                 </a></p></div>
             </footer>

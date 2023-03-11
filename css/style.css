@@ -11716,9 +11716,7 @@ body {
 }
 
 .sb-sidenav-dark .sb-sidenav-footer{
-
 background-color: #212529 !important;
-
 }
 
 #a{
@@ -11965,13 +11963,11 @@ and (max-width : 320px)
   figure{
     grid-template-columns: repeat(1, minmax(100px, 600px));
     
-  }
-  
+  }  
   .text{
      font-size: 4px!important;
   }
 }
-
 /* Smartphones (landscape) ---------------- */
 @media only screen 
 and (min-width : 321px)
@@ -11981,7 +11977,6 @@ and (max-width : 767px)
     grid-template-columns: repeat(1, minmax(100px, 600px));
     
   }
-  
   .text{
      font-size: 10px!important;
   }
@@ -12038,7 +12033,6 @@ and (max-device-width : 1024px)
 .containersimg:hover .overlay{
   transform: scale(1);
 }
-
 .text{
   color:white;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -12048,7 +12042,6 @@ and (max-device-width : 1024px)
   left: 37%;
   transform:translate(-50%,-50%);
   text-align: justify;
-  
 }
 
 
